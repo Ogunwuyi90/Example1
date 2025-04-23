@@ -1,0 +1,43 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #4a54f1; /* Deep blue color for the main heading */
+  margin-bottom: 20px;
+}
+
+img {
+  width: 60%;
+  margin: 20px 0; /* Adds space above and below the image */
+  border-radius: 10px; /* Gives a rounded corner to the image */
+}
+
+h2 {
+  color: #6a1b9a; /* Purple color for the secondary heading */
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #4caf50; /* Green background for buttons */
+  color: white;
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #388e3c; /* Darker green on hover */
+}
+
+p {
+  color: #ff5722; /* Orange color for the paragraph */
+  font-size: 1.2em;
+}
